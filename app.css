@@ -15,10 +15,19 @@ body {
     margin-top: 20px;
     border: 2px solid #81d4fa;
     justify-content: center;
-    width: 250px;
+}
+.contenedor-login {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 15px #90caf9;
+    margin-top: 20px;
+    border: 2px solid #81d4fa;
+    justify-content: center;
     position: absolute;
-    top: 100px;
+    width: 250px;
     left: 40%;
+    top: 150px;
 }
 header {
     display: flex;
